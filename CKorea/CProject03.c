@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main3() {
 	//메모리(RAM): 컴퓨터가 정보를 저장하는 공간
 	/*
 	bit < byte < KByte < MByte < GByte < TByte

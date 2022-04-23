@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CProject01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="practice02.c">
+    <ClCompile Include="Home01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

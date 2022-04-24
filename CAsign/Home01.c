@@ -7,5 +7,6 @@ void main()
 	// 나이도 변수로
 
 	//printf 자기소개
+	printf("이름: ");
 
 }

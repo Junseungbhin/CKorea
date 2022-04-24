@@ -11,6 +11,6 @@ void main() {
 	(age >= 20) ? printf("나이는 %d,요금은 %d", age, 1250) : printf("나이는 %d", "요금은 % d", age, 800);
 	printf("\n키를 입력하세요 : ");
 	scanf_s("%d", &height);
-	(age >= 12 && height >= 120) ? printf("탑승 가능") : printf("탑승 불가")
+	(age >= 12 && height >= 120) ? printf("탑승 가능") : printf("탑승 불가");
 
 }

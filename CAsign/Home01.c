@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main20()
 {
 	// TODO : 간단한 자기소개
 	// 이름은 변수로

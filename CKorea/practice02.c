@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() {
+void main6() {
 	int bhin1;
 	float bhin2;
 	char bhin3;

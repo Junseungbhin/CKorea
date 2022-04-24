@@ -23,6 +23,9 @@
     <ClCompile Include="CProject02.c" />
     <ClCompile Include="CProject03.c" />
     <ClCompile Include="CProject05.c" />
+    <ClCompile Include="CProject07.c" />
+    <ClCompile Include="CProject09.c" />
+    <ClCompile Include="CProject10.c" />
     <ClCompile Include="practice02.c" />
     <ClCompile Include="pratice01.c" />
   </ItemGroup>

@@ -33,5 +33,14 @@
     <ClCompile Include="practice02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CProject07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

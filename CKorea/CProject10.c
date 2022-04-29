@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main10() {
 	// 1.
 	// 국어, 수학, 영어: 입력을 받아서 
 	// 총점과 평균

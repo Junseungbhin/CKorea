@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CKorea", "CKorea\CKorea.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CAsign", "CAsign\CAsign.vcxproj", "{0911F8C6-652F-4D62-93F6-F63AF1BB85CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDialog1", "CDialog1\CDialog1.vcxproj", "{88E1972F-22E9-4536-8897-D0D14512D3BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{0911F8C6-652F-4D62-93F6-F63AF1BB85CA}.Release|x64.Build.0 = Release|x64
 		{0911F8C6-652F-4D62-93F6-F63AF1BB85CA}.Release|x86.ActiveCfg = Release|Win32
 		{0911F8C6-652F-4D62-93F6-F63AF1BB85CA}.Release|x86.Build.0 = Release|Win32
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Debug|x64.ActiveCfg = Debug|x64
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Debug|x64.Build.0 = Debug|x64
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Debug|x86.Build.0 = Debug|Win32
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Release|x64.ActiveCfg = Release|x64
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Release|x64.Build.0 = Release|x64
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Release|x86.ActiveCfg = Release|Win32
+		{88E1972F-22E9-4536-8897-D0D14512D3BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

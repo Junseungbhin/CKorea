@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main12() {
 	// 조건연산자(삼향연산자)
 	//(3 > 1) ? printf("맞네") : printf("아니네");
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main4() 
+void main01() 
 {
 	//1
 	int number1,number2;		// 두 개의  int형 변수를 한 번에 선언 

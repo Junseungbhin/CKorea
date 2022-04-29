@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main10() {
+void main() {
 	// 1.
 	// 국어, 수학, 영어: 입력을 받아서 
 	// 총점과 평균
@@ -9,6 +9,19 @@ void main10() {
 	총점: 300
 	평균: 100.0
 	*/
+	int 국어, 수학, 영어, 총점;
+	float 평균;
+	printf("국어 점수 입력>>");
+	scanf_s("%d", &국어);
+	printf("수학 점수 입력>>");
+	scanf_s("%d", &수학);
+	printf("영어 점수 입력>>");
+	scanf_s("%d", &영어);
+
+	총점 = 국어 + 수학 + 영어;
+	평균 = 총점 / 3.0;
+
+	printf("총점: %d\n평균: %.1f\n\n", 총점, 평균);
 
 	// 2.
 	// 숫자1, 숫자2 : 입력받아서
@@ -21,19 +34,17 @@ void main10() {
 	// n1 / n2 = 3.3333
 	// n1 % n2 = 1
 	*/
-	int 국어 = 100, 수학 = 100, 영어 = 100;
-	int 총점 = 국어 + 수학 + 영어;
-	int 합계 = 총점 / 3;
-	
-	printf("총점: %d\n평균: %d", 총점, 합계);
 
-	int n1 = 3, n2 = 2;
 
-	int a = n1 + n2;
-	int b = n1 - n2;
-	int c = n1 * n2;
-	float d = n1 / n2;
-	int e = n1 * n2;
-	printf("\nn1 + n2 = %d",a);
+	int n1, n2;
+	printf("첫번째 숫자 입력>>");
+	scanf_s("%d", &n1);
+	printf("두번째 숫자 입력>>");
+	scanf_s("%d", &n2);
+	printf("n1 + n2 = %d\n", n1+n2);
+	printf("n1 - n2 = %d\n", n1 - n2);
+	printf("n1 * n2 = %d\n", n1 * n2);
+	printf("n1 / n2 = %d\n", n1 / n2);
+	printf("%d\n", n1 % n2);
 	
 }

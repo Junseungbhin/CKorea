@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main14() {
 	// 숫자를 2개 입력받아서 
 	// 더하기, 빼기, 곱하기, 나누기, 나머지 구하기
 

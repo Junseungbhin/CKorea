@@ -13,4 +13,5 @@ void main2() {
 	printf("작성자 : 전승빈");
 	printf("\n날짜 : 2022.04.23");
 	printf("\nprintf 사용하기");
+	//
 }

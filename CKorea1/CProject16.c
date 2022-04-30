@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() {
+void main16() {
 	//int age = -1;
 	//scanf_s("%d", &age);
 	//if (age >= 20) {
@@ -61,16 +61,16 @@ void main() {
 	if (score >= 90) {
 		grade = 'A';
 	}
-	if (score >= 80 && score < 90) {
+	else if (score >= 80) {
 		grade = 'B';
 	}
-	if (score >= 70 && score < 80) {
+	else if (score >= 70) {
 		grade = 'C';
 	}
-	if (score >= 60 && score < 70) {
+	else if (score >= 60) {
 		grade = 'D';
 	}
-	if (score < 60) {
+	else{
 		grade = 'F';
 	}
 

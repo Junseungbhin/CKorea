@@ -25,6 +25,7 @@
     <ClCompile Include="CProject16.c" />
     <ClCompile Include="CProject17.c" />
     <ClCompile Include="CProject18.c" />
+    <ClCompile Include="CProject20.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

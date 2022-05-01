@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main18()
 {
 	////소괄호 안에 있는 길이 case에 있는 값과 같으면 해당 코드를 실행
 	//switch (1) {

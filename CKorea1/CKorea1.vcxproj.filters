@@ -36,5 +36,11 @@
     <ClCompile Include="CProject20.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CProject21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -15,28 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CProject13.c">
+    <ClCompile Include="CProject22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CProject14.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject15.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject16.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject17.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject18.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject20.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CProject21.c">
+    <ClCompile Include="CProject23.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

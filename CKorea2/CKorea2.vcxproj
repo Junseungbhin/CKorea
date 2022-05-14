@@ -18,21 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="CProject13.c" />
-    <ClCompile Include="CProject14.c" />
-    <ClCompile Include="CProject15.c" />
-    <ClCompile Include="CProject16.c" />
-    <ClCompile Include="CProject17.c" />
-    <ClCompile Include="CProject18.c" />
-    <ClCompile Include="CProject20.c" />
-    <ClCompile Include="CProject21.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8da144a9-17eb-4503-a902-b58efd3332fe}</ProjectGuid>
-    <RootNamespace>CKorea1</RootNamespace>
+    <ProjectGuid>{47581598-17b6-4e2f-8f22-3686b468fc74}</ProjectGuid>
+    <RootNamespace>CKorea2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -148,6 +138,10 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CProject22.c" />
+    <ClCompile Include="CProject23.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

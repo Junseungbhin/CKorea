@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="CProject22.c" />
     <ClCompile Include="CProject23.c" />
+    <ClCompile Include="CProject24.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -43,7 +43,7 @@ void Div(double var1, double var2) {
 
 
 //main이라는 이름의 함수
-void main() {
+void main23() {
 	Sum(1, 2, 3);
 	Sum(10, 20, 30);
 	Sum(100, 200, 300);

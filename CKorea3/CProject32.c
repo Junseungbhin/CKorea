@@ -7,7 +7,7 @@ void myPow(int* num) {
 	//num = 3*3 
 }
 
-int main() {
+int main32() {
 	//정수형 변수1개를 만든 후
 	int num = 3;
 	//num = 3*3(num * num)

@@ -6,7 +6,6 @@ void Swap(int *num1, int *num2) {		//선언할때 앞에 * 붙이기
 	*num1 = num3;		//num1 = 20
 
 }
-
 void Swap(int num1)
 {
 	return num1;
